@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="90053" started-at="2020-04-27T12:13:25Z" finished-at="2020-04-27T12:14:55Z">
+    <groups>
+      <group name="top">
+        <method signature="NewtestMethod.clickonGmail()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonGmail" class="com.snehajenkins.NewtestMethod"/>
+        <method signature="NewtestMethod.clickonImages()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonImages" class="com.snehajenkins.NewtestMethod"/>
+      </group> <!-- top -->
+      <group name="bottom">
+        <method signature="NewtestMethod.clickonAdvertisement()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonAdvertisement" class="com.snehajenkins.NewtestMethod"/>
+        <method signature="NewtestMethod.clickonBusiness()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonBusiness" class="com.snehajenkins.NewtestMethod"/>
+      </group> <!-- bottom -->
+      <group name="About">
+        <method signature="NewtestMethod.clickonAbout()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonAbout" class="com.snehajenkins.NewtestMethod"/>
+      </group> <!-- About -->
+    </groups>
+    <test name="Test" duration-ms="90053" started-at="2020-04-27T12:13:25Z" finished-at="2020-04-27T12:14:55Z">
+      <class name="com.snehajenkins.NewtestMethod">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="beforeMethod" is-config="true" duration-ms="11310" started-at="2020-04-27T05:13:47Z" finished-at="2020-04-27T05:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickonGmail()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonGmail" duration-ms="15093" started-at="2020-04-27T05:13:58Z" finished-at="2020-04-27T05:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonGmail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="afterMethod" is-config="true" duration-ms="950" started-at="2020-04-27T05:14:13Z" finished-at="2020-04-27T05:14:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="beforeMethod" is-config="true" duration-ms="6753" started-at="2020-04-27T05:14:16Z" finished-at="2020-04-27T05:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickonImages()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonImages" duration-ms="14752" started-at="2020-04-27T05:14:23Z" finished-at="2020-04-27T05:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonImages -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="afterMethod" is-config="true" duration-ms="454" started-at="2020-04-27T05:14:38Z" finished-at="2020-04-27T05:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="beforeMethod" is-config="true" duration-ms="4769" started-at="2020-04-27T05:14:41Z" finished-at="2020-04-27T05:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickonAdvertisement()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonAdvertisement" duration-ms="3771" started-at="2020-04-27T05:14:46Z" finished-at="2020-04-27T05:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonAdvertisement -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="afterMethod" is-config="true" duration-ms="10" started-at="2020-04-27T05:14:50Z" finished-at="2020-04-27T05:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="beforeMethod" is-config="true" duration-ms="612" started-at="2020-04-27T05:14:50Z" finished-at="2020-04-27T05:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickonBusiness()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonBusiness" duration-ms="1572" started-at="2020-04-27T05:14:50Z" finished-at="2020-04-27T05:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonBusiness -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="afterMethod" is-config="true" duration-ms="327" started-at="2020-04-27T05:14:52Z" finished-at="2020-04-27T05:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="beforeMethod" is-config="true" duration-ms="455" started-at="2020-04-27T05:14:52Z" finished-at="2020-04-27T05:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickonAbout()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="clickonAbout" duration-ms="2192" started-at="2020-04-27T05:14:52Z" finished-at="2020-04-27T05:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonAbout -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="afterMethod" is-config="true" duration-ms="42" started-at="2020-04-27T05:14:55Z" finished-at="2020-04-27T05:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.snehajenkins.NewtestMethod -->
+      <class name="com.snehajenkins.NewTestPriority">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.snehajenkins.NewTestPriority@59717824]" name="beforeTest" is-config="true" duration-ms="5926" started-at="2020-04-27T05:13:25Z" finished-at="2020-04-27T05:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="beforeTest" is-config="true" duration-ms="8037" started-at="2020-04-27T05:13:31Z" finished-at="2020-04-27T05:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Yahoo()[pri:0, instance:com.snehajenkins.NewTestPriority@59717824]" name="Yahoo" duration-ms="7683" started-at="2020-04-27T05:13:39Z" finished-at="2020-04-27T05:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Yahoo -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.snehajenkins.NewTestPriority@59717824]" name="f" duration-ms="1930" started-at="2020-04-27T05:14:14Z" finished-at="2020-04-27T05:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="Gmail()[pri:0, instance:com.snehajenkins.NewTestPriority@59717824]" name="Gmail" duration-ms="2805" started-at="2020-04-27T05:14:38Z" finished-at="2020-04-27T05:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmail -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.snehajenkins.NewTestPriority@59717824]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-04-27T05:14:55Z" finished-at="2020-04-27T05:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.snehajenkins.NewtestMethod@70b0b186]" name="afterTest" is-config="true" duration-ms="553" started-at="2020-04-27T05:14:55Z" finished-at="2020-04-27T05:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.snehajenkins.NewTestPriority -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

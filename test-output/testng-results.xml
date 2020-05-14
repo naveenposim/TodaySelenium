@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20583" started-at="2020-05-07T11:25:11Z" finished-at="2020-05-07T11:25:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20583" started-at="2020-05-07T11:25:11Z" finished-at="2020-05-07T11:25:31Z">
+      <class name="com.snehajenkins.NewTestPriority">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.snehajenkins.NewTestPriority@5b0abc94]" name="beforeTest" is-config="true" duration-ms="4509" started-at="2020-05-07T04:25:11Z" finished-at="2020-05-07T04:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Yahoo()[pri:0, instance:com.snehajenkins.NewTestPriority@5b0abc94]" name="Yahoo" duration-ms="7807" started-at="2020-05-07T04:25:15Z" finished-at="2020-05-07T04:25:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Yahoo -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.snehajenkins.NewTestPriority@5b0abc94]" name="f" duration-ms="4116" started-at="2020-05-07T04:25:23Z" finished-at="2020-05-07T04:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="Gmail()[pri:0, instance:com.snehajenkins.NewTestPriority@5b0abc94]" name="Gmail" duration-ms="4110" started-at="2020-05-07T04:25:27Z" finished-at="2020-05-07T04:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmail -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.snehajenkins.NewTestPriority@5b0abc94]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-05-07T04:25:31Z" finished-at="2020-05-07T04:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.snehajenkins.NewTestPriority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
