@@ -5,6 +5,8 @@
     <classes>
       <class name="com.snehajenkins.NewTestPriority"/>
       <class name="com.snehajenkins.NewtestMethod"/>
+<class name="com.snehajenkins.NewTest"/>
+      <class name="com.snehajenkins.Newtest1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
